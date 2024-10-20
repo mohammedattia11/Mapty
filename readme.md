@@ -1,4 +1,4 @@
 # Mapty
 ---
 ![project preview](./preview.png)
-**<a href="#">live preview and test</a>**
+**<a href="https://mohammedattia11.github.io/Mapty/">live preview and test</a>**
